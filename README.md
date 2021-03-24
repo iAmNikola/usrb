@@ -2,9 +2,9 @@
 USRB is a US keyboard layout modified for use with unique Serbian latin characters.
 
 # Layout
-[Layout](https://github.com/iAmNikola/usrb/blob/master/pictures/USRB.jpg)
-[LayoutAltGr](https://github.com/iAmNikola/usrb/blob/master/pictures/USRBAltGr.jpg)
-[LayoutShiftAltGr](https://github.com/iAmNikola/usrb/blob/master/pictures/USRBShftAltGr.jpg)
+![Layout](https://github.com/iAmNikola/usrb/blob/master/pictures/USRB.jpg)
+![LayoutAltGr](https://github.com/iAmNikola/usrb/blob/master/pictures/USRBAltGr.jpg)
+![LayoutShiftAltGr](https://github.com/iAmNikola/usrb/blob/master/pictures/USRBShftAltGr.jpg)
 
 # Installation
 Just get the zip version of "source code" and run the **setup.exe** file.
