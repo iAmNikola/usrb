@@ -12,6 +12,3 @@ Also if you want to adjust the keyboard layout I've included the .klc file which
 
 # How to use
 To use lowercase Serbian characters use **ALT+CTRL** and **SHIFT+ALT+CTRL** for uppercase Serbian characters.
-
-## To do:
-Add pictures of the layout.
